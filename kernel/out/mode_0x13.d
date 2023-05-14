@@ -1,0 +1,1 @@
+out/mode_0x13.o: mode_0x13.S

@@ -1,0 +1,1 @@
+out/mode_0x3.o: mode_0x3.S
